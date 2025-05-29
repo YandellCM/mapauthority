@@ -84,17 +84,17 @@ rx.vstack(
     rx.vstack(
         rx.hstack(
             rx.text(
-                "So, we added ",
+                "So, we decided to build ",
                 class_name="text-white font-bold text-4xl"
             ),
             rx.text(
-                "automatic MAP enforcement too.",
+                "something better.",
                 class_name="text-red-600 font-bold text-4xl"
             ),
             class_name="flex flex-wrap text-left justify-start"
         ),
         rx.text(
-            "MapAuthority makes it physically impossible for your third-party sellers to violate your MAP policy on Amazon. If a seller attempts to lower a product's price below your MAP policy, MapAuthority will automatically deny the request, and the violating price will never make it to the Amazon detail page. It is the ultimate Amazon MAP enforcement tool on the market today. Many of our users call it magic. We just call it proper MAP enforcement.",
+            "After spending years as an Amazon consulting agency, we’ve seen the struggle first hand that brands have enforcing their MAP policy on Amazon. That’s why we decided to create MAP Authority, the only MAP enforcement tool that prevents your MAP policy from ever being broken in the first place. We won’t be sending you any compliance notifications because it’s impossible for your retailers to advertise below your minimum advertised price. One of our users called it magic. We just call it proper MAP enforcement.",
             class_name="text-gray-400 text-left max-w-2xl text-sm mt-4"
         ),
         class_name="space-y-4 text-left"
